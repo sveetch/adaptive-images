@@ -1,0 +1,30 @@
+{
+  "name": "adaptive-images.js",
+  "title": "adaptive-images",
+  "description": "Yet another jQuery plugin to make adaptive images",
+
+  "keywords": [
+    "ui",
+    "adaptive",
+    "responsive",
+    "image",
+    "layout"
+    ],
+
+  "version": "0.1",
+  "author": {
+    "name": "David THENON",
+    "url": "http://emencia.com"
+  },
+
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
+
+  "homepage": "https://github.com/sveetch/adaptive-images",
+
+  "dependencies": {
+    "jquery": ">=1.7.x"
+  }
+}
